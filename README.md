@@ -1,6 +1,6 @@
 ### Hi there 👋 Welcome to my hub!
 
-<img src="https://media3.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=790b761188994ec5564e4a11797b18b80a810b1d2ba0578a&rid=giphy.gif&ct=g"/>
+<img align="right" src="https://media3.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=790b761188994ec5564e4a11797b18b80a810b1d2ba0578a&rid=giphy.gif&ct=g"/>
 
 - 🔭 My tech current stack
   
