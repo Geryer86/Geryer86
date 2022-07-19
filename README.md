@@ -1,7 +1,5 @@
 ### Hi there 👋 Welcome to my hub!
 
-**Geryer86/Geryer86** 
-
 - 🔭 My tech current stack
   
   ▫️ JavaScript
