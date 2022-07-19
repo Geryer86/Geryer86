@@ -4,37 +4,33 @@
 
 - 🔭 My tech current stack
   
-  ▫️JavaScript
-  ▫️PHP
-  ▫️Html
-  ▫️Css
-
+  ▫️ JavaScript
+  ▫️ Html
+  ▫️ Css
+  ▫️ Git
+  ▫️ Github
+  ▫️ Heroku
+  
 🔹Front-End:
-  ▫️React
-  ▫️Redux
-  ▫️UX/UI
+  ▫️ React
+  ▫️ Redux
+  ▫️ UX/UI
+  ▫️ Bootstrap
 
 🔹Back-End:
-  ▫️Node.js
-  ▫️Express
-  ▫️Sequelize
+  ▫️ Node.js
+  ▫️ Express
+  ▫️ Sequelize
 
 🔹Database:
-  ▫️PostgreSQL
-  ▫️MySQL
+  ▫️ PostgreSQL
+  ▫️ MySQL
 
- 🔹 Working Methodology ▫️Scrum
-
-  ▫️Git
-  ▫️Trell
+🔹 Working Methodology
+  ▫️ Scrum
+  ▫️ Git
+  ▫️ Trello
+ 
 
 - 🌱 I’m currently learning everything that is in my reach to complement and expand my current knowledge (Typescript, Python, React Native, Angular, etc)
-  JavaScript HTML5 CSS3
-
-  Nodejs React Bootstrap
-
-  Adobe Photoshop Adobe Illustrator
-
-  MySQL PostgreSQL Sequelize
-
-  Git Github Heroku
+  
