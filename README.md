@@ -32,5 +32,7 @@
 
 - 🌱 I’m currently learning everything that is in my reach to complement and expand my current knowledge (Typescript, Python, React Native, Angular, etc)
 
-<a href="https://www.linkedin.com/in/germ%C3%A1n-flores-arg86/"><img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/></a>
+<img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
+
+<a href="https://www.linkedin.com/in/germ%C3%A1n-flores-arg86/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   
