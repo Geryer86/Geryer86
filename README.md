@@ -5,6 +5,7 @@
 - 🔭 My tech current stack
   
   ▫️ JavaScript
+  ▫️ TypeScript
   ▫️ Html
   ▫️ Css
   ▫️ Git
